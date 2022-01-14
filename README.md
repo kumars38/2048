@@ -8,7 +8,7 @@ This was made as an assignment for SFWRENG 2AA4, reinforcing:
 - Creation of module interface specifications (MIS)
 
 ## Compilation and Execution
-Compile from main folder with `javac src/Demo.java` followed by `java src/Demo`.
+Compile from `src` folder with `javac Demo.java` followed by `java Demo`.
 
 ## Instructions
 The game is played directly in the terminal, where further instructions are given.
